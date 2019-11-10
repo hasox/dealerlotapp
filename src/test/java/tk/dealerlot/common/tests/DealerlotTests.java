@@ -2,7 +2,6 @@ package tk.dealerlot.common.tests;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import org.testng.xml.dom.ParentSetter;
 import tk.dealerlot.common.Driver;
 import tk.dealerlot.pages.AddCarPage;
 import tk.dealerlot.pages.EditCarPage;
